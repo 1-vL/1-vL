@@ -1,5 +1,5 @@
 ### MySelf
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1-vL%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1-vL%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/1-vL)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:junsoohan94@gmail.com)
 [![Velog Badge](https://img.shields.io/badge/벨로그-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@1vl)
 
@@ -56,4 +56,4 @@ Adapt swiftly to new technologies.
 ---
 
 ### Stat
-[![1-vL's GitHub stats](https://github-readme-stats.vercel.app/api?username=1-vL&count_private=true&show_icons=true&theme=blue-green)](https://github.com/1-vL/github-readme-stats)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=1-vL&count_private=true&show_icons=true&theme=blue-green" height="170">
