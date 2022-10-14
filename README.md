@@ -1,8 +1,8 @@
 ### MySelf
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1-vL%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:junsoohan94@gmail.com)
 [![Velog Badge](https://img.shields.io/badge/벨로그-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@1vl)
+
 사람들을 편리하게 하는 기술에 관심을 가지고 있습니다.
 새로운 기술에 빠르게 적응합니다.
 
