@@ -3,8 +3,9 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:junsoohan94@gmail.com)
 [![Velog Badge](https://img.shields.io/badge/벨로그-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@1vl)
 
-사람들을 편리하게 하는 기술에 관심을 가지고 있습니다.
-새로운 기술에 빠르게 적응합니다.
+Interested in technologies that make people convenient.
+
+Adapt swiftly to new technologies.
 
 ---
 
