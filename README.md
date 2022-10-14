@@ -56,4 +56,4 @@ Adapt swiftly to new technologies.
 ---
 
 ### Stat
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=1-vL&count_private=true&show_icons=true&theme=blue-green" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=1-vL&count_private=true&show_icons=true&theme=blue-green" height="170">
