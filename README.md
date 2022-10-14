@@ -50,7 +50,7 @@ Adapt swiftly to new technologies.
 - 2022.01~ SAMSUNG Software Academy For Youth(SSAFY) 7th Seoul Campus - Java track
 - 2022.07~08 **`PingPongClass`**
   - 1st Prize in SSAFY Seoul Campus (Common Project) - React.js / Spring Boot / MySQL (Main: Frontend, WebRTC / Sub: Backend)
-- 2022.08~10 **`견생실록`**
+- 2022.08~10 **`견생실록(GSSL)`**
   - Spring Boot / MySQL / Fast API / Flutter(Android) (Main: Backend, Server, Sub: Frontend)
 
 ---
