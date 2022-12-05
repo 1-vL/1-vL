@@ -66,12 +66,25 @@ Adapt swiftly to new technologies.
 
 - 2013.02~2019.02 Gachon Univ.
 - 2022.01~ SAMSUNG Software Academy For Youth(SSAFY) 7th Seoul Campus - Java track
-- 2022.07~08 **`핑퐁클래스(PingPongClass)`**
-  - 1st Prize in SSAFY Seoul Campus (Common Project) - React.js / Spring Boot / MySQL (Main: Frontend, WebRTC / Sub: Backend)
-- 2022.08~10 **`견생실록(GSSL)`**
-  - Spring Boot / MySQL / Fast API / Flutter(Android) (Main: Backend, Infra, Sub: Frontend, Deployment)
+---
+
+### Projects
+
 - 2022.10~11 **`워치아웃(Watch OuT)`**
-  - Spring Boot / Firebase / Kotlin / Flutter(Android) (Main: Frontend, Sub: Infra, Deployment )
+  - Main: Frontend, Sub: Infra, Deployment, Backend
+  - Spring Boot / Firebase / Kotlin / Flutter(Android)
+  - 2nd Prize in SSAFY Seoul Campus
+  - UCC Special Prize
+- 2022.08~10 **`견생실록(GSSL)`**
+  - Main: Backend, Infra, Sub: Frontend, Deployment
+  - Spring Boot / MySQL / Fast API / Flutter(Android)
+  - 2nd Prize in SSAFY Seoul Campus
+  - UCC 1st Prize
+- 2022.07~08 **`핑퐁클래스(PingPongClass)`**
+  - Main: Frontend, WebRTC / Sub: Backend
+  - React.js / Spring Boot / MySQL
+  - 1st Prize in SSAFY Seoul Campus
+  - UCC Special Prize
 ---
 
 ### Stat
