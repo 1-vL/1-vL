@@ -65,7 +65,8 @@ Adapt swiftly to new technologies.
 ### Experience
 
 - 2013.02~2019.02 Gachon Univ.
-- 2022.01~ SAMSUNG Software Academy For Youth(SSAFY) 7th Seoul Campus - Java track
+- 2022.01~2022.12 SAMSUNG Software Academy For Youth(SSAFY) 7th Seoul Campus - Java track
+- 2023.06~2023.08 KAKAO Tech Campus Backend mentor
 ---
 
 ### Projects
