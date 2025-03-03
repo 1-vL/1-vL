@@ -70,7 +70,7 @@ Adapt swiftly to new technologies.
 - 2023.06~2023.08 KAKAO Tech Campus Backend mentor
 ---
 
-### Projects
+### Education Projects
 
 - 2022.10~11 **`워치아웃(Watch OuT)`**
   - Main: Frontend, Sub: Infra, Deployment, Backend
@@ -87,6 +87,27 @@ Adapt swiftly to new technologies.
   - React.js / Spring Boot / MySQL
   - 1st Prize in SSAFY Seoul Campus
   - UCC Special Prize
+---
+
+### Side Projects
+
+## 치지직 카테고리 알림 봇 chzzk-noti-bot
+[![GitHub last commit](https://img.shields.io/github/last-commit/1-vL/chzzk-noti-bot)](https://github.com/1-vL/chzzk-noti-bot)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1-vL%2Fchzzk-noti-bot%2Fhit-counter&count_bg=%2344cc11&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/1-vL/chzzk-noti-bot)
+[![GitHub issues](https://img.shields.io/github/issues/1-vL/chzzk-noti-bot)](https://github.com/1-vL/chzzk-noti-bot/issues)
+[![GitHub stars](https://img.shields.io/github/stars/1-vL/chzzk-noti-bot)](https://github.com/1-vL/chzzk-noti-bot/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/1-vL/chzzk-noti-bot)](https://github.com/1-vL/chzzk-noti-bot/network)
+[![Docker Hub Version](https://img.shields.io/docker/v/onevl/chzzk-noti-bot?label=docker%20hub%20version)](https://hub.docker.com/r/onevl/chzzk-noti-bot)
+[![DockerHub](https://img.shields.io/docker/pulls/onevl/chzzk-noti-bot)](https://hub.docker.com/r/onevl/chzzk-noti-bot)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+![chzzk-noti-bot](https://i.imgur.com/YkW5X7N.png)
+
+## 🛠 클린 파일명(크롬 확장 프로그램)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/ghgmffpmipiilohkjohakahddpmlgebg?label=Chrome%20Web%20Store&logo=googlechrome&color=blue)](https://chromewebstore.google.com/detail/%ED%81%B4%EB%A6%B0-%ED%8C%8C%EC%9D%BC%EB%AA%85/ghgmffpmipiilohkjohakahddpmlgebg)
+
+![clean-file-name](https://lh3.googleusercontent.com/-wZ1ZqZdq6jjyz7lKyo1-lazpJqKiLLfR11PB3khXvhu7535hKTxeC-GvmUtLdPr8zNCgffzDHR6Jw5LqTxsuRa7ZA=s1280-w1280-h800)
+
 ---
 
 ### Stat
