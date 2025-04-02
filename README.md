@@ -1,5 +1,5 @@
 ### MySelf
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1-vL%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/1-vL)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=1-vL.1-vL)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:junsoohan94@gmail.com)
 [![Velog Badge](https://img.shields.io/badge/벨로그-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@1vl)
 
